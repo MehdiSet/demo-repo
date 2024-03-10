@@ -1,3 +1,3 @@
 # Hello
 
-This is just for my own practice!
+This is just for my practice!
